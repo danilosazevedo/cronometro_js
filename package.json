@@ -108,13 +108,12 @@
     "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "main": "jquery-3.6.3.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danilosazevedo/cronometro_js.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/danilosazevedo/cronometro_js/issues"
   },
