@@ -119,5 +119,6 @@
     "url": "https://github.com/danilosazevedo/cronometro_js/issues"
   },
   "homepage": "https://github.com/danilosazevedo/cronometro_js#readme",
+  "main": "jquery-3.6.3.min.js",
   "description": ""
 }
