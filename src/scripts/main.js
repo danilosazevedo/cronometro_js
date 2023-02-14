@@ -47,6 +47,7 @@ function pausar() {
 //
 function zerar() {
     $('#zerar').click(function () {
+        $('#aviso').addClass('d-none')
 
         hh = 0;
         mm = 0;
